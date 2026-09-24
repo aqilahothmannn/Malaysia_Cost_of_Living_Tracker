@@ -4,7 +4,7 @@ An interactive Excel dashboard that tracks how consumer prices changed across Ma
 
 **Tools:** Excel (Power Query, Dynamic Arrays, XLOOKUP, PivotTables, Slicers, Conditional Formatting)
 
-![Dashboard Preview](images/dashboard_full.png)
+![Dashboard Preview](Images/Dashboard_full.png)
 
 ---
 
@@ -94,7 +94,7 @@ In Excel, this is calculated for every state and category with `SUMIFS`, using l
 - **Trend chart with slicers** – filter the monthly trend by state and category
 - **Live heatmap** – red = largest increase, green = decrease
 
-![Dashboard filtered to 2023 onwards](images/dashboard_2023.png)
+![Dashboard filtered to 2023 onwards](Images/Dashboard_2023.png)
 
 ---
 
