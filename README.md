@@ -4,7 +4,7 @@ An interactive Excel dashboard that tracks how consumer prices changed across Ma
 
 **Tools:** Excel (Power Query, Dynamic Arrays, XLOOKUP, PivotTables, Slicers, Conditional Formatting)
 
-![Dashboard Preview](Images/Dashboard_full.png)
+![Dashboard Preview](Images/Dashboard_full.png.png)
 
 ---
 
@@ -94,7 +94,7 @@ In Excel, this is calculated for every state and category with `SUMIFS`, using l
 - **Trend chart with slicers** – filter the monthly trend by state and category
 - **Live heatmap** – red = largest increase, green = decrease
 
-![Dashboard filtered to 2023 onwards](Images/Dashboard_2023.png)
+![Dashboard filtered to 2023 onwards](Images/Dashboard_2023.png.png)
 
 ---
 
@@ -141,11 +141,11 @@ In Excel, this is calculated for every state and category with `SUMIFS`, using l
 
 ```
 Malaysia_Cost_of_Living_Tracker/
-├── data/
-│   └── raw/                      # Original CSVs from OpenDOSM
-├── excel/
+├── Data/
+│   └── Raw/                      # Original CSVs from OpenDOSM
+├── Excel/
 │   └── Malaysia_CPI_Tracker.xlsx # Dashboard workbook
-├── images/                       # Dashboard screenshots
+├── Images/                       # Dashboard screenshots
 └── README.md
 ```
 
@@ -153,11 +153,11 @@ Malaysia_Cost_of_Living_Tracker/
 
 ## ▶️ 12. How to Use
 
-1. Download `excel/Malaysia_CPI_Tracker.xlsx`
+1. Download `Excel/Malaysia_CPI_Tracker.xlsx`
 2. Open the **Dashboard** sheet
 3. Choose a **Start Month** and **End Month** from the dropdowns
 4. Use the **state** and **Category** slicers to explore the trend chart (select one category at a time)
-5. To update with newer data: replace the CSV in `data/raw/`, then go to **Data → Refresh All**
+5. To update with newer data: replace the CSV in `Data/Raw/`, then go to **Data → Refresh All**
 
 ---
 
