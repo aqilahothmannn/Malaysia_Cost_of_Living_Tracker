@@ -165,4 +165,4 @@ Malaysia_Cost_of_Living_Tracker/
 
 **Aqilah**
 - GitHub: [aqilahothmannn](https://github.com/aqilahothmannn)
-- LinkedIn: *(https://www.linkedin.com/in/aqilahothman00/)*
+- LinkedIn: https://www.linkedin.com/in/aqilahothman00/
